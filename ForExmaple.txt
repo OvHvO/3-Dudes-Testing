@@ -2,8 +2,5 @@ This is true.
 Hello
 hihihihihihiih
 we are 3 dudes
-<<<<<<< HEAD
 Jinaynag handsome boy
-=======
-Jianyang gay
->>>>>>> e27f6a3dfc752240f379def73bede936d96f1471
+
